@@ -1,0 +1,11 @@
+{
+  "name": "winter-drifter",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "echo 'Deploy to Vercel to run'"
+  },
+  "dependencies": {
+    "@vercel/kv": "^1.0.1"
+  }
+}
